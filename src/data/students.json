@@ -1,0 +1,66 @@
+{
+  "students": [
+    {
+      "name": "STUDENT NAME 1",
+      "registerNo": "2463001",
+      "class": "4BTAIML",
+      "subjects": [
+        {
+          "code": "AIML432P",
+          "name": "MACHINE LEARNING",
+          "theory": {
+            "held": 30,
+            "attended": 27
+          },
+          "practical": {
+            "held": 18,
+            "attended": 18
+          }
+        },
+        {
+          "code": "AIML432",
+          "name": "COMPUTATIONAL METHODS FOR AI",
+          "theory": {
+            "held": 35,
+            "attended": 30
+          },
+          "practical": {
+            "held": 0,
+            "attended": 0
+          }
+        },
+        {
+          "code": "AIML433",
+          "name": "DATABASE MANAGEMENT SYSTEMS",
+          "theory": {
+            "held": 31,
+            "attended": 28
+          },
+          "practical": {
+            "held": 18,
+            "attended": 14
+          }
+        }
+      ]
+    },
+    {
+      "name": "STUDENT NAME 2",
+      "registerNo": "2463002",
+      "class": "4BTAIML",
+      "subjects": [
+        {
+          "code": "AIML432P",
+          "name": "MACHINE LEARNING",
+          "theory": {
+            "held": 30,
+            "attended": 25
+          },
+          "practical": {
+            "held": 18,
+            "attended": 16
+          }
+        }
+      ]
+    }
+  ]
+}
